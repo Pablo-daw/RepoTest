@@ -3,7 +3,8 @@ public class Calificacion {
     public static int minimo(int[] n) {
         int min = 0;
 // se calcula el mínimo,
-        return min;
+        return max;
+System.out.println("Max = " + max + "Min = " + min);
     }
 
     public static int maximo(int[] n) {
