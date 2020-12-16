@@ -4,6 +4,9 @@ public class Calificacion {
         int min = 0;
 // se calcula el mínimo,
         return min;
+if (num < 23){
+System.out.println("Tenemos sueño");
+}
     }
 
     public static int maximo(int[] n) {
